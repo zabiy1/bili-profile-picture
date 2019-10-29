@@ -1,5 +1,4 @@
-# bili-profile-picture
-This is a tutorial of replacing the profile picture of bilibili
+#Bilibili动态头像的上传以及预览（思路）
 
 B站官方的动态头像上传在几年前就已被关闭，本文不会提供具体接口，仅提供思路。
 
