@@ -18,6 +18,8 @@ B站官方的动态头像上传在几年前就已被关闭，本文不会提供�
 
 console实现代码（示例）：
 
+
+
 let face = $('<input style="display:none" id="file" type="file"/>').click().change(() => {
 
     let formData = new FormData();
@@ -50,6 +52,8 @@ let face = $('<input style="display:none" id="file" type="file"/>').click().chan
     })
     
 });
+
+
 
 
 如果遇到问题欢迎到我的博客留言，link：https://zabiy.moe/btx
