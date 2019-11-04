@@ -45,7 +45,7 @@ console实现代码（示例）：
 
 
 
-如果遇到问题欢迎到我的[博客][4]留言
+如果遇到问题欢迎到[我的博客][4]留言
 
   [2]: mailto:i@awsl.tv
   [3]: https://space.bilibili.com/64719640
