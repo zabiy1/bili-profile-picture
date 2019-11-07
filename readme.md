@@ -32,8 +32,8 @@ console实现代码（示例）：
         formData.append("DisplayRank", "10000");
         formData.append('face', face[0].files[0]);
         $.ajax({
-            url: 'https://api.bilibili.com',   //本行用作示例，请您填入自己 的接口
-            type: 'POST',
+            url: 'https://api.bilibili.com',   //本行用作示例，请您填入自己的接口,如果在该项遇到问题，请通过下方给出的联系方式联系本人
+            type: 'POST
             cache: false,
             data: formData,
             processData: false,
