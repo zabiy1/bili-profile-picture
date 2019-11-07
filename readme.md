@@ -3,7 +3,7 @@
 
 *B站官方的动态头像上传在几年前就已被关闭，本文不会提供具体接口，仅提供思路。*
 
-动态头像效果的演示地址：[https://t.bilibili.com/12345][1]
+动态头像效果的演示地址：[https://t.bilibili.com/test][1]
 
 请合理使用，您的个人行为所产生的后果本人不负任何责任，请悉知。
 
@@ -22,7 +22,7 @@
 
 图像为APNG，大小小于2MB，通过调用接口上传，具体可以表现为通过console等多种方式实现上传。
 
-可能要用到的工具：APNG转换工具（支持win与mac）https://pan.baidu.com/s/1Q1E5QycTOXC4hxFSfc2fxg  提取码：awsl
+可能要用到的工具：[APNG转换工具（支持win与mac）][5] 提取码：*awsl*
 
 console实现代码（示例）：
 
@@ -51,3 +51,4 @@ console实现代码（示例）：
   [2]: mailto:i@awsl.tv
   [3]: https://space.bilibili.com/64719640
   [4]: https://zabiy.moe/btx
+  [5]: https://pan.baidu.com/s/1Q1E5QycTOXC4hxFSfc2fxg
