@@ -47,7 +47,7 @@ console实现代码（示例）：
 
 如果遇到问题欢迎到[我的博客][4]留言
 
-  [1]: https://t.bilibili.com/284639822152222808
+  [1]: https://space.bilibili.com/2031
   [2]: mailto:i@awsl.tv
   [3]: https://space.bilibili.com/64719640
   [4]: https://zabiy.moe/btx
