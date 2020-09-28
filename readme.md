@@ -50,5 +50,5 @@ console实现代码（示例）：
   [1]: https://space.bilibili.com/2031
   [2]: mailto:i@awsl.tv
   [3]: https://space.bilibili.com/64719640
-  [4]: https://zabiy.moe/btx
+  [4]: https://awsl.tv
   [5]: https://pan.baidu.com/s/1Q1E5QycTOXC4hxFSfc2fxg
